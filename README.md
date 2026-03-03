@@ -18,7 +18,6 @@ The application allows users to:
 - ✅ Add Notes
 - ✅ Edit Notes
 - ✅ Delete Notes
-- ✅ Mark Notes as Favorite
 - ✅ Enable / Disable Dark Mode
 - ✅ Store Data Permanently (Local Storage)
 
@@ -50,8 +49,6 @@ User can delete notes with confirmation dialog.
 User can switch between Light and Dark theme.
 Theme preference is saved permanently.
 
-### ⭐ 5. Favorite Notes
-User can mark notes as favorite using star icon.
 
 ---
 
@@ -64,7 +61,7 @@ Since SharedPreferences does not directly support objects:
 - JSON is decoded back into objects when loading.
 
 ---
-##ScreenShot
+## ScreenShot
 
 
 <img width="388" height="759" alt="Screenshot 2026-03-03 at 4 43 27 PM" src="https://github.com/user-attachments/assets/c07d3e46-ed30-40d6-9982-5322fc7303c4" />
